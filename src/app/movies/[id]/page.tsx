@@ -425,7 +425,7 @@ const MovieDetails = ({ params }: MovieProps) => {
 
       {/* Rating & Comments Summary */}
       <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
-        <div className="flex justify-between items-center mb-6">
+        <div className="flex justify-between items-center">
           <div>
             <p className="text-xl text-gray-300">Rating</p>
             <div className="flex items-center text-yellow-400">
